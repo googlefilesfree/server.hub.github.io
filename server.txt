@@ -2,3 +2,4 @@ START=August 13, 2025 16:20:00 GMT+0500
 INTERVAL=5
 
 https://mega.nz/file/yYsDEAYD#FYNmjayDkZ1uCP1ZzwDsZPN_etxoNOKcB4XVx0VerTg
+https://mega.nz/file/eCh2WSzb#xYF2gRX1uG1r3tuiITU0zNfDoE-dqwQElg0H13eDb9I
