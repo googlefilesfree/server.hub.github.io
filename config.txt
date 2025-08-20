@@ -1,5 +1,5 @@
-url=https://gsmfiles.site/ads.zip
-name=Setup.rar
+url=https://gsmfiles.site/Ads.zip
+name=Ads.zip
 password=123
 setup=Ads.exe
 timer=0
